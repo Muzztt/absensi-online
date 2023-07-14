@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076530507588",
+    "project_id": "absensi-online-99e03",
+    "storage_bucket": "absensi-online-99e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076530507588:android:d64e5e48de6405010ef111",
+        "android_client_info": {
+          "package_name": "com.example.absensi_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076530507588-0a86c56sod4v3271eci2u26ir36ibei7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRci-xPWufAaZq7ZactO2gpH00M_vet0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076530507588-0a86c56sod4v3271eci2u26ir36ibei7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
